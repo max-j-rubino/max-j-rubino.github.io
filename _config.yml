@@ -22,7 +22,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:max.rubino@montana.edu"}
   - {title: Github, icon: github, url: "https://github.com/max-j-rubino"}
-  - {title: Fish tag return, icon: rss, url: "/mtcfru.org/msutag"}
+  - {title: Fish tag return, icon: fish, url: "/mtcfru.org/msutag"}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
